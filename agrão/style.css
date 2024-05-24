@@ -10,15 +10,18 @@ color: var(--branco) ;
 
 .animal{
     font-size: 55px;
-    justify-content: center;
     text-align: center;
 }
 
 .cachorro{
     text-align: center;
-    width: 200px;
     justify-content: center;
+    margin: 0 625px;
 }
+.romeo{
+  width: 500px;
+}
+
 .latido{
     text-align: center;
     font-size: 30px;
