@@ -19,10 +19,20 @@ color: var(--branco) ;
     margin: 0 625px;
 }
 .romeo{
-  width: 500px;
+  width: 400px;
 }
 
 .latido{
     text-align: center;
     font-size: 30px;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
 }
